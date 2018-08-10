@@ -1,4 +1,4 @@
-package com.lulj.web.thread;
+package com.lulj.web.synctest;
 
 /**
  * @Description:
